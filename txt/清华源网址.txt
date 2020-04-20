@@ -1,4 +1,4 @@
-
+https://pypi.org/simple
 
 
 https://pypi.tuna.tsinghua.edu.cn/simple/
